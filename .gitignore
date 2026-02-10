@@ -1,0 +1,19 @@
+# Node modules (very important)
+node_modules/
+
+# Environment variables (secret keys)
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Optional: npm debug files
+npm-debug.log*
